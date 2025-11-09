@@ -1,11 +1,12 @@
 {
   "name": "codit",
   "displayName": "Codit",
-  "description": "",
+  "description": "Create repo and run code in a sandbox",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.105.0"
   },
+  "publisher": "codit",
   "categories": [
     "Other"
   ],
