@@ -7,6 +7,7 @@
     "vscode": "^1.105.0"
   },
   "publisher": "codit",
+  "repository": "https://github.com/codit-run/vscode-codit",
   "categories": [
     "Other"
   ],
